@@ -1,6 +1,6 @@
 package c
 
-import "github.com/ggq89/mutualdep/a"
+import "github.com/NaraLuwan/import-cycle/a"
 
 type C struct {
 	Vc int

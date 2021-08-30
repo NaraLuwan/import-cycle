@@ -1,7 +1,7 @@
 package b
 
 import (
-	"github.com/ggq89/mutualdep/a"
+	"github.com/NaraLuwan/import-cycle/a"
 )
 
 type B struct {

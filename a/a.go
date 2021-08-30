@@ -2,6 +2,8 @@ package a
 
 import (
 	"fmt"
+	"github.com/NaraLuwan/import-cycle/b"
+	"github.com/NaraLuwan/import-cycle/c"
 )
 
 type A struct {
